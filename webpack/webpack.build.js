@@ -23,7 +23,7 @@ var config = {
         filename: 'mavon-editor.js',
         chunkFilename: 'js/[name].js',
         library: 'MavonEditor',
-        libraryTarget: 'amd',
+        libraryTarget: 'umd',
         umdNamedDefine: true
     },
     resolve: {
